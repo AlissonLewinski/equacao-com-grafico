@@ -1,0 +1,1 @@
+## Site simples para calcular o resultado de uma equação do segundo grau, e exibir seu gráfico usando a biblioteca Chart.js
